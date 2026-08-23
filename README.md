@@ -1,5 +1,7 @@
 # BecomingCyber-SOC-Portfolio
 
+
+
 A curated cybersecurity portfolio showcasing SOC analyst investigations, incident response exercises, threat detection workflows, log analysis, and defensive security projects.
 
 ---
