@@ -1,5 +1,6 @@
 # BecomingCyber-SOC-Portfolio
-![BecomingCyber SOC Portfolio](assets/BecomingCyber-GitHub-Social-Preview.jpg)
+
+![BecomingCyber SOC Portfolio](./BecomingCyber-GitHub-Social-Preview.jpg)
 
 
 A curated cybersecurity portfolio showcasing SOC analyst investigations, incident response exercises, threat detection workflows, log analysis, and defensive security projects.
