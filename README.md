@@ -44,6 +44,7 @@ Projects below represent documented hands-on investigations completed as part of
 | Linux Incident Response | [Suspicious Bash Lab — Day 12](https://github.com/BecomingCyber/suspicious-bash-lab-day12) |
 | Linux Persistence Analysis | [Cron Job Persistence Lab — Day 13](https://github.com/BecomingCyber/Day13-CronJob-Lab) |
 | Windows Incident Response | [PowerShell IR Lab — Day 14](https://github.com/BecomingCyber/Day14-PowerShell-IR) |
+| Windows Performance & Endpoint Analysis | [Windows Performance Investigation](https://github.com/BecomingCyber/Windows-Performance-Investigation) |
 | Network Forensics & Analysis | [Network IR Lab — Day 15](https://github.com/BecomingCyber/Day15-Network-IR-Lab) |
 | Authentication Attack Detection | [SSH Brute Force Lab — Day 18](https://github.com/BecomingCyber/Day18-SSH-Brute-Force) |
 | SIEM & Log Analysis | [Splunk + Zeek Analysis — Day 20](https://github.com/BecomingCyber/Day-20-Splunk-Basics-Zeek-Connection-Log-Analysis) |
