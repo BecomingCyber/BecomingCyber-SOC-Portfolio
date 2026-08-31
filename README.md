@@ -95,6 +95,9 @@ BecomingCyber-SOC-Labs
 ├── Malware Analysis
 │   └── Malware triage and IOC analysis
 │
+├── Windows & Endpoint Analysis
+│   └── Windows troubleshooting, endpoint analysis, and system diagnostics
+│
 └── Security Automation
     └── Python and PowerShell security tooling
 ```
