@@ -51,6 +51,7 @@ Projects below represent documented hands-on investigations completed as part of
 | Phishing Investigation | [Phishing Analysis Lab — Day 21](https://github.com/BecomingCyber/day21-phishing-analysis-lab) |
 | Threat Intelligence Analysis | [Threat Intel Lab — Day 23](https://github.com/BecomingCyber/threat-intel-lab-day23) |
 | Malware Analysis | [Static Malware Analysis & IOC Automation — Day 24](https://github.com/BecomingCyber/day24-malware-analysis) |
+| Security Automation & Alert Analysis | [SOC Alert Analyzer: Python Alert Filtering & CSV Reporting](SOC-Alert-Analyzer/) |
 
 ---
 
