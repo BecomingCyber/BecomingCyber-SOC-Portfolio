@@ -77,6 +77,15 @@ Future labs will expand into:
 - GitHub
 - Security monitoring tools
 
+## 📚 Cybersecurity Learning Resources
+
+A curated reference of cybersecurity tools for SOC analysis,
+digital forensics, detection engineering, and secure development.
+
+🔗 [Explore Cybersecurity Tools & Learning Resources](resources/cybersecurity-tools.md)
+
+*This is a learning reference, not a list of completed projects.*
+
 ---
 
 ## Portfolio Categories
